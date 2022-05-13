@@ -7,7 +7,6 @@ O exercício proposto era o seguinte:
 O problema da máxima cadeia. Elabore um programa que receba uma cadeias de DNA. Cada posição da cadeia deve conter um códon, ou seja, uma triade de nucleotídeos -> T, A, G, C. Feito isso, leia de um arquivo uma sequência de nucleotídios (i.e., ACGTGGCTCTCTAACGTACGTACGTACGGGGTTATATTCGAT) e tente identificar a maior cadeia da lista que se relaciona a essa entrada.
 
 ## Entradas
-----------
 
 Apesar do enunciado citar para o programa receber a cadeia de DNA que seria comparada com o arquivo que possuia a sequência, foi nos dito que poderíamos colocar ambas as entradas como leitura de arquivos. Como o enunciado falava outra coisa, ambas as opções são dadas ao usuário neste programa. A entrada manual é necessário colocar cada nucleotídeo a mão, colocando os códons que se deseja. O programa orienta o usuário, perguntando se este deseja adicionar um nucleotídeo novo ou não.
 
@@ -16,7 +15,6 @@ Para a entrada em arquivo, é necessário somente que coloque a sequência desej
 Além disso, a sequência de DNA sempre será feita por arquivo. Este, igual o anterior, **não pode ter espaços** e o seu nome precisa ser **dna.txt**. O exemplo que mostraremos a seguir possuia a entrada demonstrada no próprio enunciado do exercício: ACGTGGCTCTCTAACGTACGTACGTACGGGGTTATATTCGAT
 
 ## Implementação
--------------- 
 
 Após as entradas já terem sido processadas, começa o algoritmo, que funciona na força bruta. Independente de quais das entradas o usuário escolha, um auxiliar (numEnt) é criado e o seu valor é igual ao número de nucleotídeos da entrada.
 
@@ -27,7 +25,6 @@ Ele pega a cadeia maior, ou seja, a da entrada dna.txt, e compara com cada entra
 Ao retornar desta função, o auxNucle é comparado com o numNucle, e caso ele seja maior, o numNucle recebe o valor de seu auxiliar, além de ponteiros que apontam para a cabeça e para o final desta sequência. Esse processo se segue até que todo a Lista de dna.txt seja passada.
 
 ## Exemplo de saída
-----------------
 
 A saída com os exemplos de arquivo dados é padrão:
 
