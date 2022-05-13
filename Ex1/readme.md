@@ -15,18 +15,18 @@ Uma Lista LLinear é formada por meramente uma dupla de ponteiros de inteiros, o
 
 ![lista]
 
-[arquivo]: linkdaimagem "Exemplo de Lista"
+[lista]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex1/images/Lista.png "Exemplo de Lista"
 
 Para inserirmos um valor em uma Lista, é necessário meramente aproveitar o ponteiro de último, inserir o conteúdo que será adicionado na célula que ele já está apontando e em seguida jogar o ponteiro de último para a próxima célula. Isso claro, caso o tamanho do vetor já não seja o máximo tamanho do vetor possível na Lista. Segue abaixo um diagrama do processo.
 
-![lista]
+![inserir]
 
-[arquivo]: linkdaimagem "Diagrama Inserir"
+[inserir]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex1/images/Inserir.png "Diagrama Inserir"
 
 Para removermos um valor de uma lista, é necessário primeiro checar se a lista está vazia. Caso não esteja, procurar pelo valor até o encontrar. Caso o encontre, são feitas várias trocas com este elemento até levá-lo para a última posição da lista atual, e então o ponteiro de último é decrementado em um, assim, quando o próximo item for inserido, simplesmente irá sobrescrever o valor deste elemento.
 
-![lista]
+![excluir]
 
-[arquivo]: linkdaimagem "Diagrama Excluir"
+[excluir]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex1/images/Excluir.png "Diagrama Excluir"
 
 A pesquisa não possui nada de especial, tanto que ela existe no Excluir. A pesquisa numa lista linear é meramente percorrer todos os valores desta lista até encontrar o que deseja, ou nunca encontrar.
