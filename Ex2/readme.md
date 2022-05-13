@@ -15,7 +15,7 @@ De acordo com o professor em questão, poderíamos colocar um arquivo com os nom
 
 ![arquivo]
 
-[arquivo]: linkdaimagem "Exemplo de Arquivo de Entrada"
+[arquivo]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex2/images/ArquivoTxt.png "Exemplo de Arquivo de Entrada"
 
 ## Implementação 
 --------------
@@ -52,31 +52,31 @@ Dada a entrada apresentada no setor de ## Entradas, a saída apresentada será:
 
 ![saida]
 
-[saida]: linkdaimagem "Saída do exemplo dado em Entradas"
+[saida]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex2/images/Saida1.png "Saída do exemplo dado em Entradas"
 
 A partir deste ponto o programa está em suas mãos, porém, demonstrando todas as opções, primeiro tentarei adicionar o nome Pedro, em seguida tentarei adicionar o nome Michel. Obtendo o seguinte resultado:
 
 ![saida2]
 
-[saida2]: linkdaimagem "Saída ao adicionar nomes"
+[saida2]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex2/images/Saida2.png "Saída ao adicionar nomes"
 
 Caso decidamos mostrar a lista neste momento, teremos esta saída:
 
 ![saida3]
 
-[saida3]: linkdaimagem "Demonstrando o Imprimir Lista"
+[saida3]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex2/images/Saida3.png "Demonstrando o Imprimir Lista"
 
 E ao tentar excluir os nomes Pietro, Miguel e Pietro novamente, nesta ordem, obtemos:
 
 ![saida4]
 
-[saida4]: linkdaimagem "Saída ao excluir nomes"
+[saida4]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex2/images/Saida4.png "Saída ao excluir nomes"
 
 Caso decidamos mostrar a lista neste momento e depois sair do programa, teremos esta saída:
 
 ![saida5]
 
-[saida5]: linkdaimagem "Demonstrando o Imprimir Lista"
+[saida5]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex2/images/Saida5.png "Demonstrando o Imprimir Lista"
 
 ## Conclusões
 ------------
