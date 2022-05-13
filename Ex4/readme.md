@@ -7,7 +7,6 @@ O exercício proposto era o seguinte:
 Em uma lista A temos um conjunto de elementos inteiros positivos ou não {a<sub>1</sub>, a<sub>2</sub> , ... , a<sub>n</sub>}. Elabore uma função que consiga encontrar neste conjunto a máxima soma.
 
 ## Entradas
-----------
 
 Como não existe nenhum valor especial nas entradas, então antes do programa rodar em si, só é pedido o tamanho deste vetor de inteiros e qual o valor máximo que ele deseja que os inteiros dessa Lista assumam. Ambos esses valores precisam ser inteiros e positivos.
 
@@ -16,13 +15,11 @@ Como não existe nenhum valor especial nas entradas, então antes do programa ro
 [entrada]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex4/images/Entradas.png "Exemplo das entradas"
 
 ## Implementação 
---------------
 
 Após algumas tentativas frustradas de tentar algo mais otimizado e falhar no uso de ponteiros (somente perto da entrega fiquei sabendo da possibidade de fazer com Lista Linear). A implementação foi a famosa força bruta. Não existe muito o que se falar do algoritmo implementado. A maior soma do vetor é encontrada porque todas as somas possíveis são feitas da maneira mais direta possível em uma sequência de loops.
 
 
 ## Exemplo de saída
-----------------
 
 Dada a entrada apresentada no setor de ## Entradas, a saída apresentada será:
 
