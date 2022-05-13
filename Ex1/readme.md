@@ -7,7 +7,6 @@ O exercício proposto era o seguinte:
 Faça um diagrama para representar uma inserção, remoção e pesquisa em uma lista linear.
 
 ## Respostas as questões
---------------------
 
 Esse exercício não possui qualquer tipo de implementação.
 
