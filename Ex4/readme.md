@@ -13,7 +13,7 @@ Como não existe nenhum valor especial nas entradas, então antes do programa ro
 
 ![entrada]
 
-[entrada]: linkdaimagem "Exemplo das entradas"
+[entrada]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex4/images/Entradas.png "Exemplo das entradas"
 
 ## Implementação 
 --------------
@@ -28,7 +28,7 @@ Dada a entrada apresentada no setor de ## Entradas, a saída apresentada será:
 
 ![saida]
 
-[saida]: linkdaimagem "Saída do exemplo dado em Entradas"
+[saida]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex4/images/Saida1.png "Saída do exemplo dado em Entradas"
 
 Não existe muito mais a se mostrar deste programa, não é fácil replicar exatamente o resultado já que os números são gerados aleatoriamente. 
 
