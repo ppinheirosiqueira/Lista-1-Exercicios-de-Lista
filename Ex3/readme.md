@@ -33,7 +33,7 @@ A saída com os exemplos de arquivo dados é padrão:
 
 ![saida]
 
-[saida]: linkdaimagem "Saída do exemplo dado em Entradas"
+[saida]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex3/images/Saida1.png "Saída do exemplo dado em Entradas"
 
 Apesar de ser notável que existia o par de nucleotídeos TTC AAC antes, o programa busca pela maior cadeia e por isso a tríade depois acaba prevalecendo.
 
@@ -41,7 +41,7 @@ Caso utilizemos a opção de colocar os nucleotídeos a mão, ou simplesmente al
 
 ![saida2]
 
-[saida2]: linkdaimagem "Saída ao adicionar nomes"
+[saida2]: https://github.com/ppinheirosiqueira/Lista-1-Exercicios-de-Lista/blob/main/Ex3/images/Saida2.png "Saída ao adicionar nomes"
 
 Demonstrando que o programa consegue encontrar todos os nucleotídeos.
 
